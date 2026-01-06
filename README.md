@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Dai Luu 👋
+Full-stack developer (Ruby on Rails MVC)
 
-<!--
-**LuuDai-bit/LuuDai-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Ruby, JavaScript, SQL
+- Rails, React
+- PostgreSQL, Redis
+- Docker, AWS
 
-Here are some ideas to get you started:
+### Featured Projects
+- **Blog and Work management** – This is my blog and also has few functionalities to help me manage my work including send remind email   
+  🔗 [Repo](https://github.com/LuuDai-bit/blog) | 🌐 Demo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+- Email: dailx.work@gmail.com
+- LinkedIn: https://www.linkedin.com/in/%C4%91%E1%BA%A1i-l%C6%B0u-831ba9175/
