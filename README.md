@@ -9,7 +9,7 @@ Full-stack developer (Ruby on Rails MVC)
 
 ### Featured Projects
 - **Blog and Work management** – This is my blog and also has few functionalities to help me manage my work including send remind email   
-  🔗 [Repo](https://github.com/LuuDai-bit/blog) | 🌐 codedehoc.click
+  🔗 [Repo](https://github.com/LuuDai-bit/blog) | 🌐 [codedehoc.click](https://codedehoc.click)
 
   Key functions: Dashboard, Blog posts, Reminders that allow to send notification by email and sms (https://github.com/LuuDai-bit/blog/pull/32) <br />
 
