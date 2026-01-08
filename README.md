@@ -4,14 +4,14 @@ With strong Ruby on Rail and database skills, I helped customer to build reliabl
 I can also code reactjs and perform pretty well with html, css and javascript.
 Here's some of my achievements:
 - Implemented a complex algorithm to help customer automate their work reduce the time it took to complete their task from 20 - 30 minutes to just 2 - 5 minutes. Enhance the algorithm and fine-tune the code so the time it take for an api call meet the requirement 30 seconds to 1 minutes.
-- Integrated In app purchase (Apple and Android) to help customer with their payment function in their mobile app. Gain trust and good feedback from customers, they introduce me to another 3 projects to implement the same function.
+- Integrated In app purchase (Apple and Android) to help customer with their payment function in their mobile app. Gain trust and good feedback from customers, they introduce me to another 3 projects to implement the same function. <br />
 [In app purchase (Apple)](https://codedehoc.click/en/user/technical_posts/78)
-- Speed up multiple apis by fixing slow queries. Checking and indexing the sql base on the sql execution plan, adding code to detecting the N+1 problem while run unit test (so it can be checked in CI). 
+- Speed up multiple apis by fixing slow queries. Checking and indexing the sql base on the sql execution plan, adding code to detecting the N+1 problem while run unit test (so it can be checked in CI). <br />
 [Detect N+1](https://codedehoc.click/en/user/technical_posts/49)
-- Using many modern features of SQL to solve business problems.
-[Recursion in SQL](https://codedehoc.click/en/user/technical_posts/30)
-[Order by field](https://codedehoc.click/en/user/technical_posts/75)
-[Handle check duplicate in more than 25 columns](https://codedehoc.click/en/user/technical_posts/14)
+- Using many modern features of SQL to solve business problems. <br />
+[Recursion in SQL](https://codedehoc.click/en/user/technical_posts/30) <br />
+[Order by field](https://codedehoc.click/en/user/technical_posts/75) <br />
+[Handle check duplicate in more than 25 columns](https://codedehoc.click/en/user/technical_posts/14) <br />
 Or check out my [featured works](https://codedehoc.click/en/user/technical_posts?category_name=Featured+work)
 
 ### Skills
