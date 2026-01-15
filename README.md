@@ -27,7 +27,7 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
   Key functions: Dashboard, Blog posts, Reminders that allow to send notification by email and sms (https://github.com/LuuDai-bit/blog/pull/32) <br />
 
   Screenshots: <br />
-    <img width="1860" height="1070" alt="image" src="https://github.com/user-attachments/assets/498732f4-c04b-4006-94f7-fe601ab8f382" />
+    <img width="1852" height="1067" alt="image" src="https://github.com/user-attachments/assets/666a4ec6-6164-4c67-b3d3-ae45d9139545" />
     <img width="1860" height="1070" alt="image" src="https://github.com/user-attachments/assets/afab31d6-b6d6-4dd9-9a1f-029a659fbf40" />
     <img width="1860" height="1070" alt="image" src="https://github.com/user-attachments/assets/46baa0ba-f402-4a93-83c2-cddaecde6d9b" />
 
