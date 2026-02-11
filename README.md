@@ -28,7 +28,7 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
 
   Screenshots: <br />
 
-[blog.webm](https://github.com/user-attachments/assets/96f2f321-a160-4c87-baa7-8c73a82cdc33)
+[blog.webm](https://drive.google.com/file/d/1TypNSY738U3Q6PdrrR9pTHZLLV3T6qPr/view?usp=sharing)
 
 
 ### Contact
