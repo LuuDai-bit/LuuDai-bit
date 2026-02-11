@@ -27,9 +27,8 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
   Key functions: Dashboard, Blog posts, Reminders that allow to send notification by email and sms (https://github.com/LuuDai-bit/blog/pull/32) <br />
 
   Screenshots: <br />
-
-[![blog.webm]](https://youtu.be/92O1oc0Enjs)
-
+  
+[![Blog demo](https://img.youtube.com/vi/92O1oc0Enjs/0.jpg)](https://www.youtube.com/watch?v=92O1oc0Enjs)
 
 ### Contact
 - Email: dailx.work@gmail.com
