@@ -30,6 +30,11 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
   
 [![Blog demo](https://img.youtube.com/vi/92O1oc0Enjs/0.jpg)](https://www.youtube.com/watch?v=92O1oc0Enjs)
 
+- **Github comment bot** – This is a bot that allow me to push comment to destinated pr after CI was done. It display project coverage and patch coverage based on test results   
+  🔗 [Repo](https://github.com/LuuDai-bit/github-pr-commenter) 
+
+  Key functions: Push comment to github pull request && Choose and edit comment template (on-going) <br />
+  
 ### Contact
 - Email: dailx.work@gmail.com
 - [LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BA%A1i-l%C6%B0u-831ba9175/)
