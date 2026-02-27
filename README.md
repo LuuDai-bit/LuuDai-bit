@@ -35,7 +35,8 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
 
   Key functions: Push comment to github pull request && Choose and edit comment template (on-going) <br />
   Screenshots: <br />
-[Screencast from 2026-02-27 09-42-35.webm](https://github.com/user-attachments/assets/abc36655-15f4-4e92-9f98-b91670d41032) </br>
+ ![61HwL4b47W](https://github.com/user-attachments/assets/9d9d0375-73cc-4dfa-813c-1661872b37c9)
+</br>
   Test comment pr: https://github.com/LuuDai-bit/blog/pull/78
   
 ### Contact
