@@ -34,8 +34,9 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
   🔗 [Repo](https://github.com/LuuDai-bit/github-pr-commenter) 
 
   Key functions: Push comment to github pull request && Choose and edit comment template (on-going) <br />
-  Screenshits: <br />
-<img width="931" height="838" alt="image" src="https://github.com/user-attachments/assets/a372c7f4-13cc-4314-9d74-389720d8c2c1" />
+  Screenshots: <br />
+[Screencast from 2026-02-27 09-42-35.webm](https://github.com/user-attachments/assets/abc36655-15f4-4e92-9f98-b91670d41032)
+Test comment pr: https://github.com/LuuDai-bit/blog/pull/78
   
 ### Contact
 - Email: dailx.work@gmail.com
