@@ -33,7 +33,7 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
 - **Github comment bot** – This is a bot that allow me to push comment to destinated pr after CI was done. It display project coverage and patch coverage based on test results   
   🔗 [Repo](https://github.com/LuuDai-bit/github-pr-commenter) 
 
-  Key functions: Push comment to github pull request && Choose and edit comment template (on-going) <br />
+  Key functions: Push comment to github pull request && Choose and edit comment template && Dynamic configuration variables for each repository <br />
   Screenshots: <br />
  [61HwL4b47W.webm](https://github.com/user-attachments/assets/dadf3eee-c55d-46f3-bb8d-c355a9da9980)
 
