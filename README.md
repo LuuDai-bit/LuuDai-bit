@@ -19,6 +19,8 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
 - Rails, React
 - PostgreSQL, Redis
 - Docker, AWS
+- Circle CI, Github Action
+- Grafana
 
 ### Featured Projects
 - **Blog and Work management** – This is my blog and also has few functionalities to help me manage my work including send remind email   
