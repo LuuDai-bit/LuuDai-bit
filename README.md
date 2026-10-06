@@ -43,5 +43,5 @@ Or check out my [featured works](https://codedehoc.click/en/user/technical_posts
   Test comment pr: https://github.com/LuuDai-bit/blog/pull/78
   
 ### Contact
-- Email: dailx.work@gmail.com
+- Email: dailx.work@proton.me
 - [LinkedIn](https://www.linkedin.com/in/%C4%91%E1%BA%A1i-l%C6%B0u-831ba9175/)
